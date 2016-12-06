@@ -9,4 +9,5 @@ Payday 2 kom út á PC, Playstation 3 og Xbox 360 þann 13. ágúst 2013 og þan
 Gefin hafa verið út 44 viðbótarpakkar(Downloadable Content) fyrir leikinn sem bæta við nýum borðum, nýum vopnum, nýum grímum og sérsniðum og jafnvel nýjum persónum. Oft er búið til sýnishorn af því sem er að finna í hverjum pakka.
 # Heimildir
 http://store.steampowered.com/app/218620/
+<br>
 http://payday.wikia.com/wiki/PAYDAY_2

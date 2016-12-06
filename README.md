@@ -1,4 +1,4 @@
-# Payday 2
+# PAYDAY 2
 # Tegund leiksins:
 Payday 2 er fyrstu pesrónu skotleikur sem getur líka verið settur inn í "stealth" flokkinn. Hann getur verið leikinn einn eða með vinum.
 # Söguþráður

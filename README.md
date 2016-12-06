@@ -11,3 +11,5 @@ Gefin hafa verið út 44 viðbótarpakkar(Downloadable Content) fyrir leikinn se
 http://store.steampowered.com/app/218620/
 <br>
 http://payday.wikia.com/wiki/PAYDAY_2
+# Tengill á tsuts síðuna:
+http://tsuts.tskoli.is/2t/2609002180/Hópverkefni/payday_2.html
